@@ -7,8 +7,8 @@ var reverseBits = function(n) {
     let right = 31;
     while(left < right)
     {
-        let leftbit = (n >>> left)&1;
-        var rightbit = (n >>> right)&1;
+        let leftbit = (n >> left)&1;
+        var rightbit = (n >> right)&1;
         if(leftbit != rightbit)
         {
              n ^= (1 << left);
@@ -17,5 +17,5 @@ var reverseBits = function(n) {
         left++;
         right--;
     }
-    return n>>>0
+    return n
 };
