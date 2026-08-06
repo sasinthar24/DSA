@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/sasinthar24/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sasinthar24/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
