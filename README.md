@@ -8,6 +8,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sasinthar24/DSA/tree/master/0014-longest-common-prefix) |
 | [0137-single-number-ii](https://github.com/sasinthar24/DSA/tree/master/0137-single-number-ii) |
+| [0875-koko-eating-bananas](https://github.com/sasinthar24/DSA/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sasinthar24/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/sasinthar24/DSA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
