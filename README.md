@@ -74,6 +74,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sasinthar24/DSA/tree/master/0014-longest-common-prefix) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sasinthar24/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/sasinthar24/DSA/tree/master/0567-permutation-in-string) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sasinthar24/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/sasinthar24/DSA/tree/master/0567-permutation-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sasinthar24/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Pigeonhole Principle
 |  |
@@ -122,6 +124,7 @@
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/sasinthar24/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/sasinthar24/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/sasinthar24/DSA/tree/master/0567-permutation-in-string) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
@@ -171,4 +174,8 @@
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/sasinthar24/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
