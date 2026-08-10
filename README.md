@@ -17,6 +17,7 @@
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/sasinthar24/DSA/tree/master/1184-distance-between-bus-stops) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -178,4 +180,5 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sasinthar24/DSA/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
