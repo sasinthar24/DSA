@@ -5,16 +5,16 @@
  */
 var characterReplacement = function(s, k) {
     let ans = 0;
-    let map = new Map();
+    let map = new Array(26).fill(0);
     let left = 0;
     let maxFreq = 0;
     for(let right = 0; right < s.length;right++)
     {
-        map.set(s[right],(map.get(s[right])||0)+1);
-        maxFreq = Math.max(maxFreq,map.get(s[right]));
+        map[s.charCodeAt(right)-65]++;
+        maxFreq = Math.max(maxFreq,map[s.charCodeAt(right)-65]);
         while(((right-left)+1)-maxFreq > k)
         {
-            map.set(s[left],map.get(s[left])-1)
+            map[s.charCodeAt(left)-65]--
             left++;
         }
         ans = Math.max(ans,(right-left)+1);
