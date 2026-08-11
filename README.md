@@ -8,6 +8,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sasinthar24/DSA/tree/master/0014-longest-common-prefix) |
 | [0137-single-number-ii](https://github.com/sasinthar24/DSA/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/sasinthar24/DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasinthar24/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sasinthar24/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -120,6 +121,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/sasinthar24/DSA/tree/master/0152-maximum-product-subarray) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
