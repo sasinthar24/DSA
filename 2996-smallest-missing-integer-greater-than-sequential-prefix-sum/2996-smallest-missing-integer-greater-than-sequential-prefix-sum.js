@@ -15,10 +15,11 @@ var missingInteger = function(nums) {
             break;
         }
     }
-    let set = new Set(nums);
-    while(set.has(sum))
-    {
+     nums.sort((a,b)=> a-b)
+     for(num of nums)
+     {
+        if(num == sum)
         sum++;
-    }
-    return sum;
+     }
+     return sum
 };
