@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/sasinthar24/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0707-design-linked-list](https://github.com/sasinthar24/DSA/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
@@ -214,4 +215,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sasinthar24/DSA/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/sasinthar24/DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
