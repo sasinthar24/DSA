@@ -13,27 +13,31 @@
  * @return {_Node}
  */
 var flatten = function(head) {
-    let dummy = new _Node(0);
-    let prev = dummy;
-    function dfs(node)
-    {
-        while(node)
-        {
-            let next = node.next;
-            prev.next = node;
-            node.prev = prev;
-            prev = node;
-            if(node.child)
-            {
-                dfs(node.child)
-                node.child = null;
+  var curr = head;
+
+    while (curr !== null) {
+        if (curr.child !== null) {
+            var next = curr.next; // save the current next
+
+            // Find the tail of the child chain
+            var tail = curr.child;
+            while (tail.next !== null) {
+                tail = tail.next;
             }
-            node = next
+
+            // Splice child chain between curr and next
+            curr.next = curr.child;
+            curr.child.prev = curr;
+            tail.next = next;
+            if (next !== null) {
+                next.prev = tail;
+            }
+
+            // Clear the child pointer
+            curr.child = null;
         }
+        curr = curr.next;
     }
-    dfs(head);
-    let newHead = dummy.next;
-    if(newHead)
-    newHead.prev = null;
-    return newHead;
+
+    return head;
 };
