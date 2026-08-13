@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/sasinthar24/DSA/tree/master/0054-spiral-matrix) |
 | [0137-single-number-ii](https://github.com/sasinthar24/DSA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/sasinthar24/DSA/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/sasinthar24/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/sasinthar24/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/sasinthar24/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
@@ -79,6 +81,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sasinthar24/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
@@ -106,6 +109,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sasinthar24/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -273,4 +277,16 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sasinthar24/DSA/tree/master/0933-number-of-recent-calls) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
