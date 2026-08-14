@@ -12,14 +12,17 @@ var deckRevealedIncreasing = function(deck) {
         queue.push(i)
     }
     let i = 0;
-    while(queue.length > 1)
+    let head = 0
+    while(head < queue.length-1)
     {
-        let top = queue.shift();
-        let second = queue.shift();
+        let top = queue[head];
+        head++
+        let second = queue[head]
+        head++;
         result[top] = deck[i];
         queue.push(second)
         i++
     }
-    result[queue.shift()] = deck[i];
+    result[queue[head]] = deck[i];
     return result;
 };
