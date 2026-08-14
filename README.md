@@ -18,6 +18,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
 | [0875-koko-eating-bananas](https://github.com/sasinthar24/DSA/tree/master/0875-koko-eating-bananas) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/sasinthar24/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/sasinthar24/DSA/tree/master/1184-distance-between-bus-stops) |
@@ -229,6 +230,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/sasinthar24/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sasinthar24/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sasinthar24/DSA/tree/master/0054-spiral-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/sasinthar24/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Linked List
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sasinthar24/DSA/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/sasinthar24/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Primality Test
 |  |
 | ------- |
