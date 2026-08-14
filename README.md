@@ -23,6 +23,7 @@
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/sasinthar24/DSA/tree/master/1184-distance-between-bus-stops) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
+| [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sasinthar24/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sasinthar24/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -142,6 +143,7 @@
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sasinthar24/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
 ## Sliding Window
 |  |
 | ------- |
@@ -284,6 +287,7 @@
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sasinthar24/DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sasinthar24/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
 ## Primality Test
 |  |
 | ------- |
@@ -296,4 +300,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
