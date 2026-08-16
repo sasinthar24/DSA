@@ -12,9 +12,10 @@ var stoneGameIX = function(stones) {
    }
    let [count0,count1,count2] = count;
 
-    if (Math.min(count1, count2) === 0) {
-        return Math.max(count1, count2) > 2 && count0 % 2 === 1;
+    if(count0 % 2 == 0)
+    {
+        return count1 > 0 && count2 >0
     }
 
-    return Math.abs(count1 - count2) > 2 || count0 % 2 === 0;
+    return Math.abs(count1 - count2) > 2 ;
 };
