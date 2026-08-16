@@ -17,6 +17,7 @@
 | [0456-132-pattern](https://github.com/sasinthar24/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sasinthar24/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sasinthar24/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/sasinthar24/DSA/tree/master/0190-reverse-bits) |
+| [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,12 +77,14 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sasinthar24/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/sasinthar24/DSA/tree/master/0113-path-sum-ii) |
+| [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sasinthar24/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/sasinthar24/DSA/tree/master/0113-path-sum-ii) |
+| [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +308,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/sasinthar24/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/sasinthar24/DSA/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sasinthar24/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -311,6 +316,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/sasinthar24/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/sasinthar24/DSA/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sasinthar24/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Data Stream
@@ -370,4 +376,8 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sasinthar24/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
