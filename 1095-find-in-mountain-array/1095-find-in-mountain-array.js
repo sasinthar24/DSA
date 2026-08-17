@@ -27,7 +27,7 @@ var findInMountainArray = function(target, mountainArr) {
    while(left < right)
    {
     let mid = Math.floor((left+right)/2);
-    if(mountainArr.get(mid) < mountainArr.get(mid + 1))
+    if(mountainArr.get(mid) > mountainArr.get(mid-1))
     {
         left = mid+1;
     }
