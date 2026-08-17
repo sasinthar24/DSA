@@ -16,11 +16,21 @@ var Solution = function(w) {
  */
 Solution.prototype.pickIndex = function() {
     let target = Math.floor(Math.random() * this.total)+1;
-    for(let i = 0; i < this.prefix.length;i++)
+    let low = 0;
+    let high = this.prefix.length;
+    while(low < high)
     {
-        if(this.prefix[i] >= target)
-        return i;
+        let mid = Math.floor((low+high)/2);
+        if(this.prefix[mid] < target)
+        {
+            low = mid+1
+        }
+        else
+        {
+            high = mid;
+        }
     }
+    return low;
 };
 
 /** 
