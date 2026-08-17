@@ -19,6 +19,7 @@
 | [0456-132-pattern](https://github.com/sasinthar24/DSA/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/sasinthar24/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
+| [0528-random-pick-with-weight](https://github.com/sasinthar24/DSA/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/sasinthar24/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/sasinthar24/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
+| [0528-random-pick-with-weight](https://github.com/sasinthar24/DSA/tree/master/0528-random-pick-with-weight) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
@@ -148,6 +150,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sasinthar24/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/sasinthar24/DSA/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/sasinthar24/DSA/tree/master/0493-reverse-pairs) |
+| [0528-random-pick-with-weight](https://github.com/sasinthar24/DSA/tree/master/0528-random-pick-with-weight) |
 | [0875-koko-eating-bananas](https://github.com/sasinthar24/DSA/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -225,6 +228,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/sasinthar24/DSA/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/sasinthar24/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
@@ -411,4 +415,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/sasinthar24/DSA/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
