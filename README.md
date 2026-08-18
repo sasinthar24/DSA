@@ -64,6 +64,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sasinthar24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/sasinthar24/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/sasinthar24/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sasinthar24/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -103,6 +104,7 @@
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/sasinthar24/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/sasinthar24/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -117,6 +119,7 @@
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/sasinthar24/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/sasinthar24/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -224,6 +227,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/sasinthar24/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/sasinthar24/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sasinthar24/DSA/tree/master/0567-permutation-in-string) |
+| [0652-find-duplicate-subtrees](https://github.com/sasinthar24/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
