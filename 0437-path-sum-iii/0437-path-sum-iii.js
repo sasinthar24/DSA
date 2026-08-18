@@ -12,28 +12,19 @@
  * @return {number}
  */
 var pathSum = function(root, targetSum) {
-     function countFromNode(node,sum)
+    let map = new Map();
+    map.set(0,1);
+    function dfs(node,currentSum)
     {
         if(node == null)
         return 0;
-        let count = 0;
-        sum+=node.val
-        if(sum == targetSum)
-        count++;
-        count+= countFromNode(node.left,sum);
-        count+=countFromNode(node.right,sum);
-        return count
-    }
-
-    function dfs(node)
-    {
-        if(node == null)
-        return 0;
-
-        let count = countFromNode(node,0);
-       count+= dfs(node.left)
-        count+= dfs(node.right)
+        currentSum+=node.val;
+       let count = map.get(currentSum-targetSum)||0;
+        map.set(currentSum,(map.get(currentSum)||0)+1);
+        count+=dfs(node.left,currentSum);
+        count+=dfs(node.right,currentSum);
+        map.set(currentSum,(map.get(currentSum)||0)-1);
         return count;
     }
-    return dfs(root)
+    return dfs(root,0);
 };
