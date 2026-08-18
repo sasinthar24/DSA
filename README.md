@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/sasinthar24/DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sasinthar24/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sasinthar24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/sasinthar24/DSA/tree/master/0437-path-sum-iii) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sasinthar24/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/sasinthar24/DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sasinthar24/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/sasinthar24/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sasinthar24/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/sasinthar24/DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sasinthar24/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/sasinthar24/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -213,6 +216,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sasinthar24/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/sasinthar24/DSA/tree/master/0152-maximum-product-subarray) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
@@ -472,6 +476,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sasinthar24/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
