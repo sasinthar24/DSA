@@ -1,6 +1,58 @@
+class BSTNode 
+{
+ constructor(start,end)
+ {
+      this.start = start;
+      this.end = end;
+      this.left = null;
+      this.right = null;
+ }
+}
+ class BST
+ {
+    constructor()
+    {
+        this.root = null
+    }
+    insert(start,end)
+    {
+       const node = new BSTNode(start,end);
+       if(this.root == null)
+       {
+        this.root = node;
+        return true;
+       }
+       let current = this.root
+       while(true)
+       {
+        if(end <= current.start)
+        {
+            if(current.left == null)
+            {
+                current.left = node;
+                return true;
+            }
+            current = current.left;
+        }
+        else if(start >= current.end)
+        {
+            if(current.right == null)
+            {
+                current.right = node;
+                return true;
+            }
+            current = current.right
+        }
+        else
+        {
+            return false;
+        }
+       }
+    }
 
+ }
 var MyCalendar = function() {
-    this.events = [];
+  this.bst = new BST();
 };
 
 /** 
@@ -10,13 +62,7 @@ var MyCalendar = function() {
  */
 MyCalendar.prototype.book = function(startTime, endTime) {
     
-    for(const [start,end] of this.events)
-    {
-        if(start < endTime && startTime < end)
-        return false
-    }
-    this.events.push([startTime,endTime]);
-    return true;
+    return this.bst.insert(startTime,endTime)
 };
 
 /** 
