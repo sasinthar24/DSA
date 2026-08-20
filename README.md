@@ -253,6 +253,7 @@
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1386-cinema-seat-allocation](https://github.com/sasinthar24/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [2034-stock-price-fluctuation](https://github.com/sasinthar24/DSA/tree/master/2034-stock-price-fluctuation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sasinthar24/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sasinthar24/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -310,6 +311,7 @@
 | [0731-my-calendar-ii](https://github.com/sasinthar24/DSA/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/sasinthar24/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/sasinthar24/DSA/tree/master/0933-number-of-recent-calls) |
+| [2034-stock-price-fluctuation](https://github.com/sasinthar24/DSA/tree/master/2034-stock-price-fluctuation) |
 ## Hash Function
 |  |
 | ------- |
@@ -325,6 +327,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sasinthar24/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/sasinthar24/DSA/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
+| [2034-stock-price-fluctuation](https://github.com/sasinthar24/DSA/tree/master/2034-stock-price-fluctuation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -390,6 +393,7 @@
 | [0729-my-calendar-i](https://github.com/sasinthar24/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sasinthar24/DSA/tree/master/0731-my-calendar-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sasinthar24/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2034-stock-price-fluctuation](https://github.com/sasinthar24/DSA/tree/master/2034-stock-price-fluctuation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sasinthar24/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Stack
 |  |
@@ -412,6 +416,7 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/sasinthar24/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/sasinthar24/DSA/tree/master/0933-number-of-recent-calls) |
+| [2034-stock-price-fluctuation](https://github.com/sasinthar24/DSA/tree/master/2034-stock-price-fluctuation) |
 ## Queue
 |  |
 | ------- |
