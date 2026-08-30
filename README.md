@@ -18,6 +18,7 @@
 | [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sasinthar24/DSA/tree/master/0239-sliding-window-maximum) |
+| [0280-wiggle-sort](https://github.com/sasinthar24/DSA/tree/master/0280-wiggle-sort) |
 | [0287-find-the-duplicate-number](https://github.com/sasinthar24/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -213,6 +214,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0280-wiggle-sort](https://github.com/sasinthar24/DSA/tree/master/0280-wiggle-sort) |
 | [0502-ipo](https://github.com/sasinthar24/DSA/tree/master/0502-ipo) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1386-cinema-seat-allocation](https://github.com/sasinthar24/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -416,6 +418,7 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/sasinthar24/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0280-wiggle-sort](https://github.com/sasinthar24/DSA/tree/master/0280-wiggle-sort) |
 | [0295-find-median-from-data-stream](https://github.com/sasinthar24/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sasinthar24/DSA/tree/master/0451-sort-characters-by-frequency) |
