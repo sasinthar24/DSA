@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sasinthar24/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0456-132-pattern](https://github.com/sasinthar24/DSA/tree/master/0456-132-pattern) |
+| [0480-sliding-window-median](https://github.com/sasinthar24/DSA/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/sasinthar24/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/sasinthar24/DSA/tree/master/0502-ipo) |
@@ -276,6 +277,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/sasinthar24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sasinthar24/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/sasinthar24/DSA/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sasinthar24/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/sasinthar24/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -368,6 +370,7 @@
 | [0239-sliding-window-maximum](https://github.com/sasinthar24/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/sasinthar24/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/sasinthar24/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/sasinthar24/DSA/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/sasinthar24/DSA/tree/master/0502-ipo) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
@@ -383,6 +386,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sasinthar24/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sasinthar24/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/sasinthar24/DSA/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/sasinthar24/DSA/tree/master/0567-permutation-in-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sasinthar24/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/sasinthar24/DSA/tree/master/1499-max-value-of-equation) |
@@ -544,6 +548,7 @@
 ## Treap
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/sasinthar24/DSA/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/sasinthar24/DSA/tree/master/0493-reverse-pairs) |
 ## Quickselect
 |  |
