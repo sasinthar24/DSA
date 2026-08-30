@@ -50,6 +50,7 @@
 | [1872-stone-game-viii](https://github.com/sasinthar24/DSA/tree/master/1872-stone-game-viii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sasinthar24/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2029-stone-game-ix](https://github.com/sasinthar24/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sasinthar24/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sasinthar24/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sasinthar24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -210,6 +211,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/sasinthar24/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1927-sum-game](https://github.com/sasinthar24/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sasinthar24/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sasinthar24/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sasinthar24/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sasinthar24/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sasinthar24/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
