@@ -17,12 +17,20 @@ var topKFrequent = function(nums, k) {
             map.set(nums[i],1);
         }
     }
-    var sortedMap = [...map.entries()]
-    sortedMap.sort((a,b)=> b[1]- a[1])
-    console.log(sortedMap)
-    var ans = [];
-    for(var i = 0; i < k;i++)
-    ans.push(sortedMap[i][0])
-    return ans
+    let bucket = Array.from({length:nums.length+1},()=> []);
 
+    for(const [num,freq] of map)
+    {
+        bucket[freq].push(num);
+    }
+    let result = [];
+    for(freq = nums.length; freq >=1 ; freq--)
+    {
+       for(const num of bucket[freq])
+       {
+        result.push(num)
+       }
+       if(result.length == k)
+       return result;
+    }
 };
