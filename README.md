@@ -19,6 +19,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sasinthar24/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sasinthar24/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0456-132-pattern](https://github.com/sasinthar24/DSA/tree/master/0456-132-pattern) |
 | [0480-sliding-window-median](https://github.com/sasinthar24/DSA/tree/master/0480-sliding-window-median) |
@@ -109,6 +110,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sasinthar24/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/sasinthar24/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/sasinthar24/DSA/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 ## Backtracking
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sasinthar24/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/sasinthar24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sasinthar24/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -372,6 +375,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sasinthar24/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/sasinthar24/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sasinthar24/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/sasinthar24/DSA/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/sasinthar24/DSA/tree/master/0502-ipo) |
@@ -413,6 +417,7 @@
 | [0164-maximum-gap](https://github.com/sasinthar24/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sasinthar24/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sasinthar24/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/sasinthar24/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
@@ -519,11 +524,13 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sasinthar24/DSA/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sasinthar24/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sasinthar24/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
 | [2029-stone-game-ix](https://github.com/sasinthar24/DSA/tree/master/2029-stone-game-ix) |
@@ -560,6 +567,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasinthar24/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Randomized
 |  |
 | ------- |
