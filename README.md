@@ -47,6 +47,7 @@
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/sasinthar24/DSA/tree/master/1184-distance-between-bus-stops) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/sasinthar24/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sasinthar24/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/sasinthar24/DSA/tree/master/1499-max-value-of-equation) |
@@ -223,6 +224,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sasinthar24/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/sasinthar24/DSA/tree/master/0502-ipo) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/sasinthar24/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1642-furthest-building-you-can-reach](https://github.com/sasinthar24/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1927-sum-game](https://github.com/sasinthar24/DSA/tree/master/1927-sum-game) |
@@ -391,6 +393,7 @@
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sasinthar24/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sasinthar24/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/sasinthar24/DSA/tree/master/1499-max-value-of-equation) |
 | [1642-furthest-building-you-can-reach](https://github.com/sasinthar24/DSA/tree/master/1642-furthest-building-you-can-reach) |
@@ -435,6 +438,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/sasinthar24/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sasinthar24/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sasinthar24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sasinthar24/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
