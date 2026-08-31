@@ -13,7 +13,7 @@ var findMinArrowShots = function(points) {
         if(end >= points[i][0])
         {
             start = Math.min(start,points[i][0])
-            end = Math.min(start,points[i][1])
+            end = Math.min(end,points[i][1])
         }
         else
         {
