@@ -49,6 +49,7 @@
 | [1095-find-in-mountain-array](https://github.com/sasinthar24/DSA/tree/master/1095-find-in-mountain-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
+| [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
 | [1184-distance-between-bus-stops](https://github.com/sasinthar24/DSA/tree/master/1184-distance-between-bus-stops) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -266,6 +267,7 @@
 | [0875-koko-eating-bananas](https://github.com/sasinthar24/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/sasinthar24/DSA/tree/master/1095-find-in-mountain-array) |
+| [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1386-cinema-seat-allocation](https://github.com/sasinthar24/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -392,6 +395,7 @@
 | [0901-online-stock-span](https://github.com/sasinthar24/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/sasinthar24/DSA/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
 | [1472-design-browser-history](https://github.com/sasinthar24/DSA/tree/master/1472-design-browser-history) |
 | [2034-stock-price-fluctuation](https://github.com/sasinthar24/DSA/tree/master/2034-stock-price-fluctuation) |
 ## Hash Function
@@ -644,4 +648,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
