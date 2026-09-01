@@ -51,7 +51,7 @@ SnapshotArray.prototype.get = function(index, snap_id) {
             right = mid-1;
         }
     }
-    return arr[right][1]
+    return arr[left-1][1]
 };
 
 /** 
