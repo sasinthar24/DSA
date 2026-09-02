@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sasinthar24/DSA/tree/master/0014-longest-common-prefix) |
+| [0045-jump-game-ii](https://github.com/sasinthar24/DSA/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/sasinthar24/DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/sasinthar24/DSA/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sasinthar24/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -234,6 +235,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sasinthar24/DSA/tree/master/0045-jump-game-ii) |
 | [0280-wiggle-sort](https://github.com/sasinthar24/DSA/tree/master/0280-wiggle-sort) |
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sasinthar24/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -294,6 +296,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sasinthar24/DSA/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sasinthar24/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/sasinthar24/DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
