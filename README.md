@@ -114,6 +114,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sasinthar24/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/sasinthar24/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [3310-remove-methods-from-project](https://github.com/sasinthar24/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -122,6 +123,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/sasinthar24/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [3310-remove-methods-from-project](https://github.com/sasinthar24/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sasinthar24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -163,6 +165,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sasinthar24/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/sasinthar24/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
 | ------- |
