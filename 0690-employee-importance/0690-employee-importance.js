@@ -14,6 +14,12 @@
  */
 var GetImportance = function(employees, id) {
     let imp = 0;
+    let map = new Map();
+    for(let i = 0;i < employees.length;i++)
+    {
+        map.set(employees[i].id,employees[i])
+    }
+   
     for(let i = 0; i < employees.length;i++)
     {
         const empId = employees[i].id
@@ -30,18 +36,13 @@ var GetImportance = function(employees, id) {
     {
          for(const nbr of child)
          {
-            for(let i = 0; i < employees.length;i++)
-            {
-                const empId = employees[i].id
-                const importance= employees[i].importance
-                const child = employees[i].subordinates
-                if(empId == nbr)
-                {
-                  imp+=importance;
-                  if(child.length != 0)
-                  dfs(child)
-                }
-            }
+            childEmp = map.get(nbr)
+             const empId = childEmp.id
+             const importance= childEmp.importance
+             const child = childEmp.subordinates
+             imp+=importance;
+             if(child.length != 0)
+             dfs(child)
         }
     }
 
