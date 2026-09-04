@@ -46,6 +46,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/sasinthar24/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/sasinthar24/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sasinthar24/DSA/tree/master/0731-my-calendar-ii) |
+| [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sasinthar24/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sasinthar24/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -117,6 +118,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sasinthar24/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -134,6 +136,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sasinthar24/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -537,6 +540,7 @@
 | [0200-number-of-islands](https://github.com/sasinthar24/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sasinthar24/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sasinthar24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -705,6 +709,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/sasinthar24/DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sasinthar24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
 |  |
