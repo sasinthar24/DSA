@@ -70,6 +70,7 @@
 | [1563-stone-game-v](https://github.com/sasinthar24/DSA/tree/master/1563-stone-game-v) |
 | [1642-furthest-building-you-can-reach](https://github.com/sasinthar24/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
+| [1765-map-of-highest-peak](https://github.com/sasinthar24/DSA/tree/master/1765-map-of-highest-peak) |
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/sasinthar24/DSA/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/sasinthar24/DSA/tree/master/1882-process-tasks-using-servers) |
@@ -145,6 +146,7 @@
 | [0994-rotting-oranges](https://github.com/sasinthar24/DSA/tree/master/0994-rotting-oranges) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sasinthar24/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1765-map-of-highest-peak](https://github.com/sasinthar24/DSA/tree/master/1765-map-of-highest-peak) |
 | [3310-remove-methods-from-project](https://github.com/sasinthar24/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sasinthar24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -550,6 +552,7 @@
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/sasinthar24/DSA/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/sasinthar24/DSA/tree/master/1765-map-of-highest-peak) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sasinthar24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
