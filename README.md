@@ -36,6 +36,7 @@
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/sasinthar24/DSA/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/sasinthar24/DSA/tree/master/0528-random-pick-with-weight) |
+| [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sasinthar24/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sasinthar24/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sasinthar24/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/sasinthar24/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/sasinthar24/DSA/tree/master/0690-employee-importance) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -341,6 +343,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/sasinthar24/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/sasinthar24/DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sasinthar24/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
@@ -544,6 +547,7 @@
 | [0200-number-of-islands](https://github.com/sasinthar24/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sasinthar24/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/sasinthar24/DSA/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sasinthar24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
