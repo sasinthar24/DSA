@@ -47,6 +47,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/sasinthar24/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/sasinthar24/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sasinthar24/DSA/tree/master/0731-my-calendar-ii) |
+| [0752-open-the-lock](https://github.com/sasinthar24/DSA/tree/master/0752-open-the-lock) |
 | [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sasinthar24/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -138,6 +139,7 @@
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/sasinthar24/DSA/tree/master/0690-employee-importance) |
+| [0752-open-the-lock](https://github.com/sasinthar24/DSA/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -251,6 +253,7 @@
 | [0567-permutation-in-string](https://github.com/sasinthar24/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sasinthar24/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0752-open-the-lock](https://github.com/sasinthar24/DSA/tree/master/0752-open-the-lock) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasinthar24/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
@@ -375,6 +378,7 @@
 | [0690-employee-importance](https://github.com/sasinthar24/DSA/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sasinthar24/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0752-open-the-lock](https://github.com/sasinthar24/DSA/tree/master/0752-open-the-lock) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
@@ -751,4 +755,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/sasinthar24/DSA/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
