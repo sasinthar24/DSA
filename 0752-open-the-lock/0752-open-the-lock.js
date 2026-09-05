@@ -16,6 +16,7 @@ var openLock = function(deadends, target) {
     let queue = [];
     let head = 0;
     queue.push(["0000",0]);
+    visited.add("0000");
     while(head < queue.length)
     {
         let temp = queue[head++];
