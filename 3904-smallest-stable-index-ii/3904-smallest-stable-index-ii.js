@@ -16,7 +16,7 @@ var firstStableIndex = function(nums, k) {
     {
         rightMin[i] = Math.min(nums[i],rightMin[i+1])
     }
-    let ans = Infinity;
+    
     leftMax = nums[0]
     for(let i = 0; i < nums.length;i++)
     {
@@ -25,8 +25,8 @@ var firstStableIndex = function(nums, k) {
         let val = leftMax - rightMin[i]
         if(val <= k)
         {
-            ans = Math.min(ans,i)
+           return i
         }
     }
-    return ans == Infinity ? -1 : ans
+    return -1
 };
