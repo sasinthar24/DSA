@@ -10,16 +10,20 @@ var ladderLength = function(beginWord, endWord, wordList) {
 
     let set = new Set(wordList);
     let map = new Map();
-    map.set(beginWord,1);
+    map.set(beginWord);
     let queue = [];
     let head = 0;
-    queue.push(beginWord)
+    queue.push(beginWord);
+    let moves = 1;
 
     while(head < queue.length)
     {
+        let size = queue.length - head;
+        for(let i = 0; i < size; i++)
+        {
         const word = queue[head++];
         if(word == endWord)
-        return map.get(word);
+        return moves;
         let arr = word.split("");
         for(let i = 0; i < arr.length;i++)
         {
@@ -30,12 +34,14 @@ var ladderLength = function(beginWord, endWord, wordList) {
                 let newWord = arr.join("");
                 if(set.has(newWord) && !map.has(newWord))
                 {
-                    map.set(newWord,map.get(word)+1);
+                    map.set(newWord);
                     queue.push(newWord);
                 }
             }
             arr[i] = original;
         }
+        }
+       moves++;
         
     }
     return 0
