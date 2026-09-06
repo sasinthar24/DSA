@@ -250,6 +250,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sasinthar24/DSA/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/sasinthar24/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sasinthar24/DSA/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sasinthar24/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
@@ -351,6 +352,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sasinthar24/DSA/tree/master/0045-jump-game-ii) |
+| [0115-distinct-subsequences](https://github.com/sasinthar24/DSA/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sasinthar24/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/sasinthar24/DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
