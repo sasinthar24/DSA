@@ -4,16 +4,25 @@
  * @return {number}
  */
 var numDistinct = function(s, t) {
-    let memo = new Map();
-    function dp(i, j) {
-        if (i === s.length || j === t.length || s.length - i < t.length - j)
-            return j === t.length ? 1 : 0;
-        let key = [i, j].toString();
-        if (memo.has(key)) return memo.get(key);
-        let ans = dp(i + 1, j);
-        if (s[i] === t[j]) ans += dp(i + 1, j + 1);
-        memo.set(key, ans);
-        return ans;
+    let dp = Array.from({length:s.length},()=>new Array(t.length).fill(-1));
+
+    function backTrack(i,j)
+    {
+        if(j == t.length)
+        return 1;
+        if(i == s.length)
+        return 0;
+        if(dp[i][j] != -1)
+        return dp[i][j];
+
+        let count = backTrack(i+1,j);
+        if(s[i] == t[j])
+        count+= backTrack(i+1,j+1);
+
+        dp[i][j] = count;
+        return count;
     }
-    return dp(0, 0);
+    return backTrack(0,0);
+    
+
 };
