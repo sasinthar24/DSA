@@ -263,6 +263,7 @@
 | [0752-open-the-lock](https://github.com/sasinthar24/DSA/tree/master/0752-open-the-lock) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasinthar24/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/sasinthar24/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -358,6 +359,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sasinthar24/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0940-distinct-subsequences-ii](https://github.com/sasinthar24/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
