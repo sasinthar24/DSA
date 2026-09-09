@@ -119,6 +119,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sasinthar24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/sasinthar24/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sasinthar24/DSA/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/sasinthar24/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sasinthar24/DSA/tree/master/0669-trim-a-binary-search-tree) |
@@ -144,6 +145,7 @@
 | [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/sasinthar24/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/sasinthar24/DSA/tree/master/0690-employee-importance) |
 | [0752-open-the-lock](https://github.com/sasinthar24/DSA/tree/master/0752-open-the-lock) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/sasinthar24/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/sasinthar24/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -748,6 +751,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sasinthar24/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sasinthar24/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sasinthar24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
