@@ -114,6 +114,7 @@
 | [0200-number-of-islands](https://github.com/sasinthar24/DSA/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sasinthar24/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sasinthar24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/sasinthar24/DSA/tree/master/0437-path-sum-iii) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/sasinthar24/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/sasinthar24/DSA/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -161,6 +163,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/sasinthar24/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -780,6 +783,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/sasinthar24/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
