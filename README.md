@@ -129,6 +129,7 @@
 | [0684-redundant-connection](https://github.com/sasinthar24/DSA/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/sasinthar24/DSA/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/sasinthar24/DSA/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/sasinthar24/DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -157,6 +158,7 @@
 | [0684-redundant-connection](https://github.com/sasinthar24/DSA/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/sasinthar24/DSA/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/sasinthar24/DSA/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/sasinthar24/DSA/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/sasinthar24/DSA/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
@@ -180,6 +182,7 @@
 | [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/sasinthar24/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sasinthar24/DSA/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/sasinthar24/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/sasinthar24/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -531,6 +534,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sasinthar24/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/sasinthar24/DSA/tree/master/0743-network-delay-time) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sasinthar24/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sasinthar24/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -842,4 +846,12 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/sasinthar24/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sasinthar24/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sasinthar24/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
