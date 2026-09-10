@@ -72,6 +72,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sasinthar24/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/sasinthar24/DSA/tree/master/1472-design-browser-history) |
 | [1499-max-value-of-equation](https://github.com/sasinthar24/DSA/tree/master/1499-max-value-of-equation) |
+| [1514-path-with-maximum-probability](https://github.com/sasinthar24/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/sasinthar24/DSA/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sasinthar24/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1642-furthest-building-you-can-reach](https://github.com/sasinthar24/DSA/tree/master/1642-furthest-building-you-can-reach) |
@@ -191,6 +192,7 @@
 | [0802-find-eventual-safe-states](https://github.com/sasinthar24/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0924-minimize-malware-spread](https://github.com/sasinthar24/DSA/tree/master/0924-minimize-malware-spread) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/sasinthar24/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1514-path-with-maximum-probability](https://github.com/sasinthar24/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sasinthar24/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [3310-remove-methods-from-project](https://github.com/sasinthar24/DSA/tree/master/3310-remove-methods-from-project) |
 ## Divide and Conquer
@@ -546,6 +548,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sasinthar24/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/sasinthar24/DSA/tree/master/1499-max-value-of-equation) |
+| [1514-path-with-maximum-probability](https://github.com/sasinthar24/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1642-furthest-building-you-can-reach](https://github.com/sasinthar24/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
@@ -856,8 +859,10 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/sasinthar24/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasinthar24/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/sasinthar24/DSA/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sasinthar24/DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sasinthar24/DSA/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
