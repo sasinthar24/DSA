@@ -97,7 +97,7 @@ var findCheapestPrice = function(n, flights, src, dst, k) {
     {
       const[currentPrice,node,stops] = queue[head++];
       
-      if(stops === k+1)
+      if(stops > k)
       continue;
 
       for(const [nbr,price] of graph[node])
