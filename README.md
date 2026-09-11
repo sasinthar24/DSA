@@ -39,6 +39,7 @@
 | [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/sasinthar24/DSA/tree/master/0502-ipo) |
+| [0518-coin-change-ii](https://github.com/sasinthar24/DSA/tree/master/0518-coin-change-ii) |
 | [0528-random-pick-with-weight](https://github.com/sasinthar24/DSA/tree/master/0528-random-pick-with-weight) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sasinthar24/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -420,6 +421,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/sasinthar24/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/sasinthar24/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/sasinthar24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasinthar24/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -916,6 +918,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sasinthar24/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/sasinthar24/DSA/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/sasinthar24/DSA/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -923,4 +926,8 @@
 | [0416-partition-equal-subset-sum](https://github.com/sasinthar24/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/sasinthar24/DSA/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/sasinthar24/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
