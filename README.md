@@ -36,6 +36,7 @@
 | [0456-132-pattern](https://github.com/sasinthar24/DSA/tree/master/0456-132-pattern) |
 | [0480-sliding-window-median](https://github.com/sasinthar24/DSA/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/sasinthar24/DSA/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/sasinthar24/DSA/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/sasinthar24/DSA/tree/master/0528-random-pick-with-weight) |
@@ -223,6 +224,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/sasinthar24/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sasinthar24/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -416,6 +418,7 @@
 | [0213-house-robber-ii](https://github.com/sasinthar24/DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/sasinthar24/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/sasinthar24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasinthar24/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -910,8 +913,10 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sasinthar24/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sasinthar24/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
