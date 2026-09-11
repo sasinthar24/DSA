@@ -67,6 +67,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/sasinthar24/DSA/tree/master/0994-rotting-oranges) |
+| [1049-last-stone-weight-ii](https://github.com/sasinthar24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1095-find-in-mountain-array](https://github.com/sasinthar24/DSA/tree/master/1095-find-in-mountain-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
@@ -424,6 +425,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasinthar24/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sasinthar24/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/sasinthar24/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1049-last-stone-weight-ii](https://github.com/sasinthar24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -914,9 +916,11 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sasinthar24/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/sasinthar24/DSA/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sasinthar24/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/sasinthar24/DSA/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
