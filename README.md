@@ -48,6 +48,7 @@
 | [0721-accounts-merge](https://github.com/sasinthar24/DSA/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/sasinthar24/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sasinthar24/DSA/tree/master/0731-my-calendar-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/sasinthar24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/sasinthar24/DSA/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/sasinthar24/DSA/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/sasinthar24/DSA/tree/master/0815-bus-routes) |
@@ -410,6 +411,7 @@
 | [0152-maximum-product-subarray](https://github.com/sasinthar24/DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/sasinthar24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasinthar24/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sasinthar24/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/sasinthar24/DSA/tree/master/0940-distinct-subsequences-ii) |
