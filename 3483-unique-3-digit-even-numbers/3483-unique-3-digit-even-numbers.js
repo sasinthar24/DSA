@@ -3,36 +3,27 @@
  * @return {number}
  */
 var totalNumbers = function(digits) {
-     const result = [];
-     const visited = new Array(digits.length).fill(false)
-     function dfs(path)
-     {
-         if(path.length == 3)
-         {
-            result.push([...path].join(''))
-            return;
-         }
-         for(let i = 0;i < digits.length;i++)
-         {
-            if(visited[i])
-            continue;
-            visited[i] = true
-            path.push(digits[i])
-            dfs(path)
-            visited[i] = false
-            path.pop();
-         }
-     }
-     dfs([])
-    let set = new Set(result);
-    let count = 0;
-    for(const num of set)
+    let set = new Set();
+    for(let i = 0; i < digits.length;i++)
     {
-        if(num[0] == 0)
+        if(digits[i] == 0)
         continue;
+        for(let j = 0; j < digits.length;j++)
+        {
+            if(i == j)
+            continue;
+            for(let k = 0; k < digits.length;k++)
+            {
+                if(i == k || j == k)
+                continue;
 
-        if(Number(num) % 2 == 0)
-        count++;
+                if(digits[k]% 2 != 0)
+                continue;
+
+                let num = digits[i]*100+digits[j]*10+digits[k]
+                set.add(num)
+            }
+        }
     }
-    return count;
+    return set.size
 };
