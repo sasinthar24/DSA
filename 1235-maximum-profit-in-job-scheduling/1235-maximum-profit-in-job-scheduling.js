@@ -13,7 +13,7 @@ var jobScheduling = function(startTime, endTime, profit) {
         jobs.push([startTime[i],endTime[i],profit[i]])
     }
     jobs.sort((a,b)=> a[0]-b[0]);
-    const dp = new Array(n).fill(null);
+    const dp = new Array(n+1).fill(0);
     function lowerBound(end)
     {
         let left = 0;
@@ -32,25 +32,18 @@ var jobScheduling = function(startTime, endTime, profit) {
         }
         return left
     }
+   
+   for(let index = n-1; index >=0; index--)
+   {
+    let notTake = dp[index+1];
 
-    function dfs(index)
-    {
-        if(index == n)
-        return 0;
+    let next = lowerBound(jobs[index][1])
+    let take = jobs[index][2] + dp[next];
 
-        if(dp[index] != null)
-        return dp[index];
+    dp[index] = Math.max(take,notTake)
+   }
+    
 
-        let notTake = dfs(index+1);
-        
-        let next = lowerBound(jobs[index][1]);
-
-        let take = jobs[index][2] + dfs(next);
-
-        dp[index] = Math.max(take,notTake)
-        return dp[index]
-    }
-
-    return dfs(0);
+    return dp[0];
 
 };
