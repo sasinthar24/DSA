@@ -77,6 +77,7 @@
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
 | [1184-distance-between-bus-stops](https://github.com/sasinthar24/DSA/tree/master/1184-distance-between-bus-stops) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sasinthar24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sasinthar24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sasinthar24/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -398,6 +399,7 @@
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/sasinthar24/DSA/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sasinthar24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1631-path-with-minimum-effort](https://github.com/sasinthar24/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
@@ -443,6 +445,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/sasinthar24/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1049-last-stone-weight-ii](https://github.com/sasinthar24/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sasinthar24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sasinthar24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -652,6 +655,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sasinthar24/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sasinthar24/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sasinthar24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sasinthar24/DSA/tree/master/2094-finding-3-digit-even-numbers) |
