@@ -95,6 +95,7 @@
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/sasinthar24/DSA/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/sasinthar24/DSA/tree/master/1882-process-tasks-using-servers) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/sasinthar24/DSA/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sasinthar24/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2029-stone-game-ix](https://github.com/sasinthar24/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sasinthar24/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -448,6 +449,7 @@
 | [1563-stone-game-v](https://github.com/sasinthar24/DSA/tree/master/1563-stone-game-v) |
 | [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
 | [1872-stone-game-viii](https://github.com/sasinthar24/DSA/tree/master/1872-stone-game-viii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/sasinthar24/DSA/tree/master/1937-maximum-number-of-points-with-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sasinthar24/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
@@ -671,6 +673,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sasinthar24/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/sasinthar24/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/sasinthar24/DSA/tree/master/1765-map-of-highest-peak) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/sasinthar24/DSA/tree/master/1937-maximum-number-of-points-with-cost) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sasinthar24/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
