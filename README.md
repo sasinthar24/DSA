@@ -47,6 +47,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sasinthar24/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sasinthar24/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sasinthar24/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0690-employee-importance](https://github.com/sasinthar24/DSA/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/sasinthar24/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sasinthar24/DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -428,6 +429,7 @@
 | [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sasinthar24/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sasinthar24/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/sasinthar24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasinthar24/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sasinthar24/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -686,6 +688,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sasinthar24/DSA/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sasinthar24/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/sasinthar24/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sasinthar24/DSA/tree/master/0731-my-calendar-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sasinthar24/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -795,6 +798,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sasinthar24/DSA/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sasinthar24/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Merge Sort
 |  |
 | ------- |
@@ -939,4 +943,8 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/sasinthar24/DSA/tree/master/0279-perfect-squares) |
 | [0518-coin-change-ii](https://github.com/sasinthar24/DSA/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sasinthar24/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
