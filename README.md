@@ -62,6 +62,7 @@
 | [0815-bus-routes](https://github.com/sasinthar24/DSA/tree/master/0815-bus-routes) |
 | [0819-most-common-word](https://github.com/sasinthar24/DSA/tree/master/0819-most-common-word) |
 | [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/sasinthar24/DSA/tree/master/0835-image-overlap) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sasinthar24/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sasinthar24/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -672,6 +673,7 @@
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/sasinthar24/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/sasinthar24/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/sasinthar24/DSA/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sasinthar24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sasinthar24/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
