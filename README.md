@@ -57,6 +57,7 @@
 | [0721-accounts-merge](https://github.com/sasinthar24/DSA/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/sasinthar24/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sasinthar24/DSA/tree/master/0731-my-calendar-ii) |
+| [0741-cherry-pickup](https://github.com/sasinthar24/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/sasinthar24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/sasinthar24/DSA/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/sasinthar24/DSA/tree/master/0778-swim-in-rising-water) |
@@ -443,6 +444,7 @@
 | [0518-coin-change-ii](https://github.com/sasinthar24/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sasinthar24/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0741-cherry-pickup](https://github.com/sasinthar24/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/sasinthar24/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sasinthar24/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sasinthar24/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -677,6 +679,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sasinthar24/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/sasinthar24/DSA/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/sasinthar24/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/sasinthar24/DSA/tree/master/0835-image-overlap) |
