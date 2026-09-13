@@ -26,6 +26,7 @@
 | [0239-sliding-window-maximum](https://github.com/sasinthar24/DSA/tree/master/0239-sliding-window-maximum) |
 | [0280-wiggle-sort](https://github.com/sasinthar24/DSA/tree/master/0280-wiggle-sort) |
 | [0287-find-the-duplicate-number](https://github.com/sasinthar24/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0312-burst-balloons](https://github.com/sasinthar24/DSA/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/sasinthar24/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sasinthar24/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -433,6 +434,7 @@
 | [0198-house-robber](https://github.com/sasinthar24/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sasinthar24/DSA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/sasinthar24/DSA/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/sasinthar24/DSA/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/sasinthar24/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/sasinthar24/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
