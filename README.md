@@ -27,6 +27,7 @@
 | [0280-wiggle-sort](https://github.com/sasinthar24/DSA/tree/master/0280-wiggle-sort) |
 | [0287-find-the-duplicate-number](https://github.com/sasinthar24/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/sasinthar24/DSA/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/sasinthar24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/sasinthar24/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sasinthar24/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -142,6 +143,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/sasinthar24/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sasinthar24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/sasinthar24/DSA/tree/master/0437-path-sum-iii) |
@@ -179,6 +181,7 @@
 | [0200-number-of-islands](https://github.com/sasinthar24/DSA/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/sasinthar24/DSA/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sasinthar24/DSA/tree/master/0547-number-of-provinces) |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/sasinthar24/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sasinthar24/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sasinthar24/DSA/tree/master/0743-network-delay-time) |
@@ -437,6 +441,7 @@
 | [0213-house-robber-ii](https://github.com/sasinthar24/DSA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/sasinthar24/DSA/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sasinthar24/DSA/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/sasinthar24/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/sasinthar24/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -676,6 +681,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sasinthar24/DSA/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/sasinthar24/DSA/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sasinthar24/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sasinthar24/DSA/tree/master/0542-01-matrix) |
@@ -888,6 +894,7 @@
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/sasinthar24/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Graph Coloring
@@ -907,6 +914,7 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/sasinthar24/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/sasinthar24/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Kosaraju's Algorithm
@@ -975,4 +983,8 @@
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/sasinthar24/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sasinthar24/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
