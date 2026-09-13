@@ -74,6 +74,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/sasinthar24/DSA/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/sasinthar24/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1086-high-five](https://github.com/sasinthar24/DSA/tree/master/1086-high-five) |
 | [1095-find-in-mountain-array](https://github.com/sasinthar24/DSA/tree/master/1095-find-in-mountain-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
@@ -488,6 +489,7 @@
 | [0924-minimize-malware-spread](https://github.com/sasinthar24/DSA/tree/master/0924-minimize-malware-spread) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
+| [1086-high-five](https://github.com/sasinthar24/DSA/tree/master/1086-high-five) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
@@ -602,6 +604,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sasinthar24/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sasinthar24/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1086-high-five](https://github.com/sasinthar24/DSA/tree/master/1086-high-five) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sasinthar24/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/sasinthar24/DSA/tree/master/1499-max-value-of-equation) |
@@ -658,6 +661,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sasinthar24/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sasinthar24/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1086-high-five](https://github.com/sasinthar24/DSA/tree/master/1086-high-five) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sasinthar24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
