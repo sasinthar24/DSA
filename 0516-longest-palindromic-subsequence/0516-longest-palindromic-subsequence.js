@@ -10,7 +10,10 @@ var longestPalindromeSubseq = function(s) {
         if(i > j)
         return 0;
         if(i == j)
-        return 1
+        {
+            dp[i][j] = 1;
+            return dp[i][j]
+        }
         if(dp[i][j] != -1)
         return dp[i][j];
         
