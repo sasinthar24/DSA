@@ -323,6 +323,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sasinthar24/DSA/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/sasinthar24/DSA/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/sasinthar24/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sasinthar24/DSA/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sasinthar24/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -362,6 +363,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sasinthar24/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sasinthar24/DSA/tree/master/0045-jump-game-ii) |
 | [0280-wiggle-sort](https://github.com/sasinthar24/DSA/tree/master/0280-wiggle-sort) |
 | [0435-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -432,6 +434,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sasinthar24/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sasinthar24/DSA/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/sasinthar24/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sasinthar24/DSA/tree/master/0120-triangle) |
@@ -957,6 +960,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sasinthar24/DSA/tree/master/0044-wildcard-matching) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sasinthar24/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sasinthar24/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Knapsack Problem
