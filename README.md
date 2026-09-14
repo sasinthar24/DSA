@@ -295,6 +295,7 @@
 | [0204-count-primes](https://github.com/sasinthar24/DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/sasinthar24/DSA/tree/master/0279-perfect-squares) |
 | [0528-random-pick-with-weight](https://github.com/sasinthar24/DSA/tree/master/0528-random-pick-with-weight) |
+| [0836-rectangle-overlap](https://github.com/sasinthar24/DSA/tree/master/0836-rectangle-overlap) |
 | [0843-guess-the-word](https://github.com/sasinthar24/DSA/tree/master/0843-guess-the-word) |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
@@ -881,6 +882,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/sasinthar24/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
