@@ -327,6 +327,7 @@
 | [0044-wildcard-matching](https://github.com/sasinthar24/DSA/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/sasinthar24/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sasinthar24/DSA/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/sasinthar24/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sasinthar24/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/sasinthar24/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -441,6 +442,7 @@
 | [0115-distinct-subsequences](https://github.com/sasinthar24/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sasinthar24/DSA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sasinthar24/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/sasinthar24/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/sasinthar24/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sasinthar24/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sasinthar24/DSA/tree/master/0213-house-robber-ii) |
