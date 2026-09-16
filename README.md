@@ -326,6 +326,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sasinthar24/DSA/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/sasinthar24/DSA/tree/master/0044-wildcard-matching) |
+| [0091-decode-ways](https://github.com/sasinthar24/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/sasinthar24/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sasinthar24/DSA/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/sasinthar24/DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -443,6 +444,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/sasinthar24/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sasinthar24/DSA/tree/master/0045-jump-game-ii) |
+| [0091-decode-ways](https://github.com/sasinthar24/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/sasinthar24/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sasinthar24/DSA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sasinthar24/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
