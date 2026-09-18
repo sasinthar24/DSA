@@ -332,6 +332,7 @@
 | [0127-word-ladder](https://github.com/sasinthar24/DSA/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/sasinthar24/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sasinthar24/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0214-shortest-palindrome](https://github.com/sasinthar24/DSA/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/sasinthar24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sasinthar24/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -608,6 +609,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/sasinthar24/DSA/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sasinthar24/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 ## Heap (Priority Queue)
 |  |
@@ -1019,17 +1021,28 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/sasinthar24/DSA/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/sasinthar24/DSA/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/sasinthar24/DSA/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/sasinthar24/DSA/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/sasinthar24/DSA/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/sasinthar24/DSA/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/sasinthar24/DSA/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sasinthar24/DSA/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sasinthar24/DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
