@@ -350,6 +350,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/sasinthar24/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sasinthar24/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1927-sum-game](https://github.com/sasinthar24/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sasinthar24/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -386,6 +387,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasinthar24/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/sasinthar24/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sasinthar24/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1642-furthest-building-you-can-reach](https://github.com/sasinthar24/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1927-sum-game](https://github.com/sasinthar24/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sasinthar24/DSA/tree/master/2029-stone-game-ix) |
@@ -523,6 +525,7 @@
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1386-cinema-seat-allocation](https://github.com/sasinthar24/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sasinthar24/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sasinthar24/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2034-stock-price-fluctuation](https://github.com/sasinthar24/DSA/tree/master/2034-stock-price-fluctuation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sasinthar24/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -696,6 +699,7 @@
 | [1086-high-five](https://github.com/sasinthar24/DSA/tree/master/1086-high-five) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sasinthar24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sasinthar24/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sasinthar24/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sasinthar24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
