@@ -3,18 +3,20 @@
  * @return {number}
  */
 var thirdMax = function(nums) {
-    const set = new Set(nums);
-    if(set.size < 3)
-    {
-        return Math.max(...nums);
-    }
+    //const set = new Set(nums);
+    // if(nums.size < 3)
+    // {
+    //     return Math.max(...nums);
+    // }
 
     let firstMax = -Infinity;
     let secondMax = -Infinity;
     let thirdMax = -Infinity;
 
-    for(const num of set)
+    for(const num of nums)
     {
+        if(num == firstMax || num == secondMax || num == thirdMax)
+        continue;
         if(num > firstMax)
         {
             thirdMax = secondMax;
@@ -31,5 +33,5 @@ var thirdMax = function(nums) {
             thirdMax = num;
         }
     }
-    return thirdMax;
+    return thirdMax == -Infinity ? firstMax : thirdMax;
 };
