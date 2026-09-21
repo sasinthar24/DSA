@@ -30,15 +30,7 @@ var maximumCoins = function(coins, k) {
             partial+=((end-l)+1)*c
         }
         
-         ans = Math.max(partial,ans);
-            // if(j > i)
-            // {
-            //     const [l,r,c] = arr[i]
-            //     if(r<=end)
-            //     {
-            //         sum-= ((r-l)+1)*c;
-            //     }
-            // }
+              ans = Math.max(partial,ans);
               const [l,r,c] = arr[i]
               sum-= ((r-l)+1)*c;
            
@@ -47,8 +39,12 @@ var maximumCoins = function(coins, k) {
    }
 
    let ans = solve(coins);
-   let reversed = coins.map(([l,r,c])=>[-r,-l,c]).sort((a,b) => a[0] - b[0]);
-   ans = Math.max(ans,solve(reversed))
+    const rev = [];
+    for (let i = coins.length - 1; i >= 0; i--) {
+        const [l, r, c] = coins[i];
+        rev.push([-r, -l, c]);
+    }
+   ans = Math.max(ans,solve(rev))
    return ans;
     
 };
