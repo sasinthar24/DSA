@@ -93,6 +93,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sasinthar24/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/sasinthar24/DSA/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sasinthar24/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/sasinthar24/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1499-max-value-of-equation](https://github.com/sasinthar24/DSA/tree/master/1499-max-value-of-equation) |
 | [1514-path-with-maximum-probability](https://github.com/sasinthar24/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/sasinthar24/DSA/tree/master/1563-stone-game-v) |
@@ -597,6 +598,7 @@
 | [0731-my-calendar-ii](https://github.com/sasinthar24/DSA/tree/master/0731-my-calendar-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/sasinthar24/DSA/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/sasinthar24/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sasinthar24/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sasinthar24/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
