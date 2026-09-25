@@ -214,6 +214,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0924-minimize-malware-spread](https://github.com/sasinthar24/DSA/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/sasinthar24/DSA/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/sasinthar24/DSA/tree/master/1096-brace-expansion-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/sasinthar24/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sasinthar24/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -256,6 +257,7 @@
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/sasinthar24/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sasinthar24/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -366,6 +368,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasinthar24/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sasinthar24/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
+| [1096-brace-expansion-ii](https://github.com/sasinthar24/DSA/tree/master/1096-brace-expansion-ii) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sasinthar24/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -543,6 +546,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/sasinthar24/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/sasinthar24/DSA/tree/master/0981-time-based-key-value-store) |
 | [1086-high-five](https://github.com/sasinthar24/DSA/tree/master/1086-high-five) |
+| [1096-brace-expansion-ii](https://github.com/sasinthar24/DSA/tree/master/1096-brace-expansion-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
@@ -727,6 +731,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/sasinthar24/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1086-high-five](https://github.com/sasinthar24/DSA/tree/master/1086-high-five) |
+| [1096-brace-expansion-ii](https://github.com/sasinthar24/DSA/tree/master/1096-brace-expansion-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sasinthar24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sasinthar24/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -809,6 +814,7 @@
 | [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/sasinthar24/DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasinthar24/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1096-brace-expansion-ii](https://github.com/sasinthar24/DSA/tree/master/1096-brace-expansion-ii) |
 | [1472-design-browser-history](https://github.com/sasinthar24/DSA/tree/master/1472-design-browser-history) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sasinthar24/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
