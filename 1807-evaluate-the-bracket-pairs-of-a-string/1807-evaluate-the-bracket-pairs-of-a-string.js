@@ -4,7 +4,7 @@
  * @return {string}
  */
 var evaluate = function(s, knowledge) {
-    let ans = "";
+    let ans = [];
     let map = new Map();
     for(const [key,value] of knowledge)
     {
@@ -15,19 +15,19 @@ var evaluate = function(s, knowledge) {
     {
         if(s[i] == '(')
         {
-            let temp = "";
+            let temp = [];
             i++;
             while(s[i]!=')')
             {
-                temp+=s[i];
+                temp.push(s[i]);
                 i++;
             }
-            ans+=map.get(temp)||'?';
+            ans.push(map.get(temp.join(''))||'?');
         }  
         else
         {
-            ans+=s[i]
+            ans.push(s[i]);
         }   
     }
-    return ans;
+    return ans.join('');
 };
