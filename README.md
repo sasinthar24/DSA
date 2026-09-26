@@ -104,6 +104,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sasinthar24/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
 | [1765-map-of-highest-peak](https://github.com/sasinthar24/DSA/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sasinthar24/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/sasinthar24/DSA/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/sasinthar24/DSA/tree/master/1882-process-tasks-using-servers) |
@@ -372,6 +373,7 @@
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sasinthar24/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sasinthar24/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/sasinthar24/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sasinthar24/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2353-design-a-food-rating-system](https://github.com/sasinthar24/DSA/tree/master/2353-design-a-food-rating-system) |
@@ -555,6 +557,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sasinthar24/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sasinthar24/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sasinthar24/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2034-stock-price-fluctuation](https://github.com/sasinthar24/DSA/tree/master/2034-stock-price-fluctuation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sasinthar24/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2353-design-a-food-rating-system](https://github.com/sasinthar24/DSA/tree/master/2353-design-a-food-rating-system) |
