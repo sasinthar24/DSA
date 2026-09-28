@@ -3,18 +3,18 @@
  * @return {number}
  */
 var maxDepth = function(s) {
-    let stack = [];
+    let stack = 0;
     let ans = 0;
     for(const ch of s)
     {
         if(ch == '(')
         {
-            stack.push(ch)
+            stack++;
         }
         else if(ch == ')')
         {
-            stack.pop();
-            ans = Math.max(stack.length+1,ans)
+            stack--;
+            ans = Math.max(stack+1,ans)
         }
     }
     return ans
