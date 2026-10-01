@@ -1111,4 +1111,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sasinthar24/DSA/tree/master/0214-shortest-palindrome) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/sasinthar24/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
