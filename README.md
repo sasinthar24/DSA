@@ -347,6 +347,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sasinthar24/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sasinthar24/DSA/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sasinthar24/DSA/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/sasinthar24/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/sasinthar24/DSA/tree/master/0115-distinct-subsequences) |
@@ -818,6 +819,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sasinthar24/DSA/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/sasinthar24/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sasinthar24/DSA/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
@@ -975,6 +977,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sasinthar24/DSA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasinthar24/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sasinthar24/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sasinthar24/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
