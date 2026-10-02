@@ -255,6 +255,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sasinthar24/DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/sasinthar24/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
@@ -348,6 +349,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sasinthar24/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sasinthar24/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sasinthar24/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/sasinthar24/DSA/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/sasinthar24/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/sasinthar24/DSA/tree/master/0115-distinct-subsequences) |
@@ -480,6 +482,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sasinthar24/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/sasinthar24/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sasinthar24/DSA/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/sasinthar24/DSA/tree/master/0091-decode-ways) |
@@ -978,6 +981,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sasinthar24/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sasinthar24/DSA/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sasinthar24/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sasinthar24/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sasinthar24/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
