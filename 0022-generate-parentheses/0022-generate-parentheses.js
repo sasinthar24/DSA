@@ -7,7 +7,6 @@ var generateParenthesis = function(n) {
 
     function backtrack(ans,open,close)
     {
-        console.log(ans)
         if(ans.length == 2*n)
         {
             result.push(ans)
