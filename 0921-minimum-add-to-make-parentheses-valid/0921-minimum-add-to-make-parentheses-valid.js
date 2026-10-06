@@ -18,5 +18,5 @@ var minAddToMakeValid = function(s) {
             stack.push(s[i])
         }
     }
-    return stack.length
+    return stack.length;
 };
