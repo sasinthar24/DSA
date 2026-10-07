@@ -193,6 +193,7 @@
 | [0127-word-ladder](https://github.com/sasinthar24/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/sasinthar24/DSA/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/sasinthar24/DSA/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/sasinthar24/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/sasinthar24/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sasinthar24/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -258,6 +259,7 @@
 | [0022-generate-parentheses](https://github.com/sasinthar24/DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/sasinthar24/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/sasinthar24/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/sasinthar24/DSA/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/sasinthar24/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/sasinthar24/DSA/tree/master/1096-brace-expansion-ii) |
@@ -359,6 +361,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/sasinthar24/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/sasinthar24/DSA/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/sasinthar24/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/sasinthar24/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/sasinthar24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sasinthar24/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/sasinthar24/DSA/tree/master/0516-longest-palindromic-subsequence) |
