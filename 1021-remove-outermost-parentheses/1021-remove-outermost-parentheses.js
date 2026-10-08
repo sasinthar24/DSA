@@ -4,13 +4,13 @@
  */
 var removeOuterParentheses = function(s) {
     let ans = "";
-    let stack = [];
+    let stack = 0;
     for(const ch of s)
     {
         if(ch == '(')
         {
-            stack.push(ch)
-            if(stack.length > 1)
+            stack++;
+            if(stack > 1)
             {
                 ans+=ch
             }
@@ -18,11 +18,11 @@ var removeOuterParentheses = function(s) {
         else
         {
            
-            if(stack.length > 1)
+            if(stack > 1)
             {
                 ans += ch
             }
-             stack.pop();
+             stack--;
         }
     }
     return ans;
