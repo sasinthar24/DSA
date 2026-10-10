@@ -115,6 +115,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/sasinthar24/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sasinthar24/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sasinthar24/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sasinthar24/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2353-design-a-food-rating-system](https://github.com/sasinthar24/DSA/tree/master/2353-design-a-food-rating-system) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sasinthar24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -432,6 +433,7 @@
 | [1927-sum-game](https://github.com/sasinthar24/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sasinthar24/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sasinthar24/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sasinthar24/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sasinthar24/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sasinthar24/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sasinthar24/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -467,6 +469,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sasinthar24/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/sasinthar24/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sasinthar24/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sasinthar24/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sasinthar24/DSA/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
@@ -704,6 +707,7 @@
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/sasinthar24/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2034-stock-price-fluctuation](https://github.com/sasinthar24/DSA/tree/master/2034-stock-price-fluctuation) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sasinthar24/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2353-design-a-food-rating-system](https://github.com/sasinthar24/DSA/tree/master/2353-design-a-food-rating-system) |
 ## Sliding Window
 |  |
@@ -761,6 +765,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sasinthar24/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sasinthar24/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sasinthar24/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sasinthar24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sasinthar24/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sasinthar24/DSA/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
