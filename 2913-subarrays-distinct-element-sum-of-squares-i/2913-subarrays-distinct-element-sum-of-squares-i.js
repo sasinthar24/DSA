@@ -6,13 +6,10 @@ var sumCounts = function(nums) {
     let ans = 0;
     for(let i = 0; i < nums.length;i++)
     {
+         let set = new Set();
         for(let j = i ; j< nums.length; j++)
         {
-            let set = new Set();
-            for(let k = i; k <= j ; k++)
-            {
-                set.add(nums[k])
-            }
+            set.add(nums[j])
             ans+= set.size ** 2
         }
     }
