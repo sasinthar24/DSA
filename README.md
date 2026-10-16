@@ -121,6 +121,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/sasinthar24/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sasinthar24/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sasinthar24/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sasinthar24/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sasinthar24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sasinthar24/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sasinthar24/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -598,6 +599,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sasinthar24/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sasinthar24/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sasinthar24/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sasinthar24/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sasinthar24/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sasinthar24/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -838,6 +840,7 @@
 | [0731-my-calendar-ii](https://github.com/sasinthar24/DSA/tree/master/0731-my-calendar-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sasinthar24/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sasinthar24/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sasinthar24/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/sasinthar24/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
@@ -957,6 +960,7 @@
 | [0493-reverse-pairs](https://github.com/sasinthar24/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sasinthar24/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sasinthar24/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sasinthar24/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Merge Sort
 |  |
 | ------- |
