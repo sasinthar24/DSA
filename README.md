@@ -98,6 +98,7 @@
 | [1499-max-value-of-equation](https://github.com/sasinthar24/DSA/tree/master/1499-max-value-of-equation) |
 | [1514-path-with-maximum-probability](https://github.com/sasinthar24/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/sasinthar24/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sasinthar24/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/sasinthar24/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/sasinthar24/DSA/tree/master/1642-furthest-building-you-can-reach) |
@@ -261,6 +262,7 @@
 | [0493-reverse-pairs](https://github.com/sasinthar24/DSA/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/sasinthar24/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sasinthar24/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sasinthar24/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -314,6 +317,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/sasinthar24/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sasinthar24/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sasinthar24/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
@@ -330,6 +334,7 @@
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/sasinthar24/DSA/tree/master/1518-water-bottles) |
 | [1563-stone-game-v](https://github.com/sasinthar24/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sasinthar24/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sasinthar24/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sasinthar24/DSA/tree/master/1927-sum-game) |
@@ -544,6 +549,7 @@
 | [1510-stone-game-iv](https://github.com/sasinthar24/DSA/tree/master/1510-stone-game-iv) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/sasinthar24/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1563-stone-game-v](https://github.com/sasinthar24/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sasinthar24/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1696-jump-game-vi](https://github.com/sasinthar24/DSA/tree/master/1696-jump-game-vi) |
 | [1872-stone-game-viii](https://github.com/sasinthar24/DSA/tree/master/1872-stone-game-viii) |
@@ -953,6 +959,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/sasinthar24/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sasinthar24/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sasinthar24/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -1004,6 +1011,7 @@
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [0924-minimize-malware-spread](https://github.com/sasinthar24/DSA/tree/master/0924-minimize-malware-spread) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sasinthar24/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/sasinthar24/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sasinthar24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1133,9 +1141,11 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sasinthar24/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sasinthar24/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## String Matching
 |  |
@@ -1169,4 +1179,8 @@
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/sasinthar24/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/sasinthar24/DSA/tree/master/0184-department-highest-salary) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
