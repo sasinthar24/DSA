@@ -86,6 +86,7 @@
 | [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
 | [1184-distance-between-bus-stops](https://github.com/sasinthar24/DSA/tree/master/1184-distance-between-bus-stops) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sasinthar24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1254-number-of-closed-islands](https://github.com/sasinthar24/DSA/tree/master/1254-number-of-closed-islands) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sasinthar24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sasinthar24/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -196,6 +197,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sasinthar24/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sasinthar24/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/sasinthar24/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1254-number-of-closed-islands](https://github.com/sasinthar24/DSA/tree/master/1254-number-of-closed-islands) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sasinthar24/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1631-path-with-minimum-effort](https://github.com/sasinthar24/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -233,6 +235,7 @@
 | [0994-rotting-oranges](https://github.com/sasinthar24/DSA/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/sasinthar24/DSA/tree/master/1096-brace-expansion-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/sasinthar24/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1254-number-of-closed-islands](https://github.com/sasinthar24/DSA/tree/master/1254-number-of-closed-islands) |
 | [1257-smallest-common-region](https://github.com/sasinthar24/DSA/tree/master/1257-smallest-common-region) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sasinthar24/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sasinthar24/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -822,6 +825,7 @@
 | [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/sasinthar24/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/sasinthar24/DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/sasinthar24/DSA/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sasinthar24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sasinthar24/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/sasinthar24/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -1024,6 +1028,7 @@
 | [0785-is-graph-bipartite](https://github.com/sasinthar24/DSA/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/sasinthar24/DSA/tree/master/0827-making-a-large-island) |
 | [0924-minimize-malware-spread](https://github.com/sasinthar24/DSA/tree/master/0924-minimize-malware-spread) |
+| [1254-number-of-closed-islands](https://github.com/sasinthar24/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sasinthar24/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sasinthar24/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/sasinthar24/DSA/tree/master/1631-path-with-minimum-effort) |
