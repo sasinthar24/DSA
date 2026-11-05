@@ -93,6 +93,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sasinthar24/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sasinthar24/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sasinthar24/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/sasinthar24/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sasinthar24/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/sasinthar24/DSA/tree/master/1472-design-browser-history) |
@@ -515,6 +516,7 @@
 | [1095-find-in-mountain-array](https://github.com/sasinthar24/DSA/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/sasinthar24/DSA/tree/master/1146-snapshot-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sasinthar24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sasinthar24/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sasinthar24/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/sasinthar24/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sasinthar24/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -529,6 +531,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sasinthar24/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/sasinthar24/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/sasinthar24/DSA/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sasinthar24/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sasinthar24/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sasinthar24/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sasinthar24/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -825,6 +828,7 @@
 | [1096-brace-expansion-ii](https://github.com/sasinthar24/DSA/tree/master/1096-brace-expansion-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sasinthar24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sasinthar24/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sasinthar24/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sasinthar24/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1834-single-threaded-cpu](https://github.com/sasinthar24/DSA/tree/master/1834-single-threaded-cpu) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sasinthar24/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
