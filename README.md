@@ -124,6 +124,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/sasinthar24/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2353-design-a-food-rating-system](https://github.com/sasinthar24/DSA/tree/master/2353-design-a-food-rating-system) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2747-count-zero-request-servers](https://github.com/sasinthar24/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sasinthar24/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sasinthar24/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sasinthar24/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -643,6 +644,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/sasinthar24/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2353-design-a-food-rating-system](https://github.com/sasinthar24/DSA/tree/master/2353-design-a-food-rating-system) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2747-count-zero-request-servers](https://github.com/sasinthar24/DSA/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sasinthar24/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sasinthar24/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sasinthar24/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -786,6 +788,7 @@
 | [1499-max-value-of-equation](https://github.com/sasinthar24/DSA/tree/master/1499-max-value-of-equation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sasinthar24/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sasinthar24/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2747-count-zero-request-servers](https://github.com/sasinthar24/DSA/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sasinthar24/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sasinthar24/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sasinthar24/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -834,6 +837,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/sasinthar24/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sasinthar24/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sasinthar24/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/sasinthar24/DSA/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sasinthar24/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sasinthar24/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/sasinthar24/DSA/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
