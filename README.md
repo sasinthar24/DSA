@@ -452,6 +452,7 @@
 | [2409-count-days-spent-together](https://github.com/sasinthar24/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sasinthar24/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sasinthar24/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sasinthar24/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sasinthar24/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sasinthar24/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sasinthar24/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -547,6 +548,7 @@
 | [0567-permutation-in-string](https://github.com/sasinthar24/DSA/tree/master/0567-permutation-in-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sasinthar24/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sasinthar24/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sasinthar24/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sasinthar24/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sasinthar24/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Pigeonhole Principle
@@ -607,6 +609,7 @@
 | [1937-maximum-number-of-points-with-cost](https://github.com/sasinthar24/DSA/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sasinthar24/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sasinthar24/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sasinthar24/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sasinthar24/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sasinthar24/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sasinthar24/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
